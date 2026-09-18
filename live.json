@@ -1,4 +1,132 @@
 {
-  "updatedAt": null,
-  "sources": []
+  "updatedAt": "2026-09-18T09:01:55.054181+00:00",
+  "sources": [
+    {
+      "id": "upsc",
+      "name": "UPSC Recruitment",
+      "url": "https://www.upsc.gov.in/recruitment",
+      "status": "SOURCE UNAVAILABLE",
+      "dates": [],
+      "ok": false,
+      "error": "The read operation timed out"
+    },
+    {
+      "id": "ssc",
+      "name": "SSC",
+      "url": "https://ssc.gov.in/",
+      "status": "LIVE SOURCE",
+      "dates": [],
+      "ok": true
+    },
+    {
+      "id": "rrb",
+      "name": "RRB",
+      "url": "https://www.rrbapply.gov.in/",
+      "status": "SOURCE UNAVAILABLE",
+      "dates": [],
+      "ok": false,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "ibps",
+      "name": "IBPS",
+      "url": "https://www.ibps.in/",
+      "status": "SOURCE UNAVAILABLE",
+      "dates": [],
+      "ok": false,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>"
+    },
+    {
+      "id": "india-post",
+      "name": "India Post",
+      "url": "https://www.indiapost.gov.in/",
+      "status": "LIVE SOURCE",
+      "dates": [
+        "16-12-2024",
+        "21-11-2025",
+        "27-11-2025",
+        "21-05-2025",
+        "01-08-2025",
+        "01-05-2025",
+        "31-07-2025",
+        "30-07-2025",
+        "10-07-2025",
+        "23-06-2025",
+        "20-06-2025",
+        "14-05-2025"
+      ],
+      "ok": true
+    },
+    {
+      "id": "employment-news",
+      "name": "Employment News",
+      "url": "https://employmentnews.gov.in/newemp/AllJobs.aspx?k=All",
+      "status": "LIVE SOURCE",
+      "dates": [
+        "12/09/2026",
+        "11/10/2026",
+        "27/09/2026",
+        "15/09/2026",
+        "07/09/2026",
+        "24/09/2026",
+        "17/09/2026",
+        "31/08/2026",
+        "18/10/2026",
+        "30/10/2026",
+        "24/08/2026",
+        "11/09/2026"
+      ],
+      "ok": true
+    },
+    {
+      "id": "isro",
+      "name": "ISRO Careers",
+      "url": "https://www.isro.gov.in/Careers.html",
+      "status": "LIVE SOURCE",
+      "dates": [
+        "28-07-2026",
+        "27-07-2026",
+        "11-08-2026",
+        "21-09-2026",
+        "27-08-2026",
+        "25-07-2026",
+        "June 23, 2026"
+      ],
+      "ok": true
+    },
+    {
+      "id": "drdo",
+      "name": "DRDO Careers",
+      "url": "https://www.drdo.gov.in/careers",
+      "status": "SOURCE UNAVAILABLE",
+      "dates": [],
+      "ok": false,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "tgprb",
+      "name": "Telangana Police Recruitment Board",
+      "url": "https://www.tgprb.in/",
+      "status": "LIVE SOURCE",
+      "dates": [],
+      "ok": true
+    },
+    {
+      "id": "mhsrb",
+      "name": "Telangana MHSRB",
+      "url": "https://mhsrb.telangana.gov.in/",
+      "status": "LIVE SOURCE",
+      "dates": [],
+      "ok": true
+    },
+    {
+      "id": "tspsc",
+      "name": "TGPSC",
+      "url": "https://www.tspsc.gov.in/",
+      "status": "SOURCE UNAVAILABLE",
+      "dates": [],
+      "ok": false,
+      "error": "<urlopen error [Errno -2] Name or service not known>"
+    }
+  ]
 }
