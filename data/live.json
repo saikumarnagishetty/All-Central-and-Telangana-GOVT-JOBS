@@ -1,0 +1,119 @@
+{
+  "india-post-gds": {
+    "posts": "Gramin Dak Sevak (GDS)",
+    "status": "🟢 APPLICATION OPEN",
+    "startDate": "31 Aug 2026",
+    "lastDate": "21 Sep 2026, 5:00 PM",
+    "examDate": "Not announced",
+    "verified": "18 Sep 2026",
+    "source": "https://indiapostgdsonline.gov.in/"
+  },
+  "rrb-paramedical": {
+    "posts": "Nursing Superintendent, Pharmacist, Health & Malaria Inspector, Lab Assistant and other paramedical categories",
+    "status": "🟢 APPLICATION OPEN",
+    "startDate": "15 Sep 2026",
+    "lastDate": "14 Oct 2026",
+    "examDate": "Not announced",
+    "verified": "18 Sep 2026",
+    "source": "https://www.rrbapply.gov.in/"
+  },
+  "tgpsc-forest": {
+    "posts": "Forest Beat Officer",
+    "status": "🟢 APPLICATION OPEN",
+    "startDate": "18 Aug 2026",
+    "lastDate": "18 Oct 2026",
+    "examDate": "Not announced",
+    "verified": "18 Sep 2026",
+    "source": "https://www.tspsc.gov.in/"
+  },
+  "upsc-ora": {
+    "posts": "Scientist-B, Assistant Director, DCIO (Technical) and other direct-recruitment posts",
+    "status": "🟣 CHECK CURRENT NOTICES",
+    "startDate": "Notification based",
+    "lastDate": "Post-specific",
+    "examDate": "Post-specific",
+    "verified": "18 Sep 2026",
+    "source": "https://www.upsc.gov.in/recruitment"
+  },
+  "isro": {
+    "posts": "Junior Research Fellow, Research Associate, Project Scientist-I, Scientist/Engineer, Technical Assistant, Technician-B and other posts",
+    "status": "🟢 SOME APPLICATIONS OPEN",
+    "startDate": "Post-specific",
+    "lastDate": "Post-specific",
+    "examDate": "Post-specific",
+    "verified": "18 Sep 2026",
+    "source": "https://www.isro.gov.in/Careers.html"
+  },
+  "ibps-po": {
+    "posts": "Probationary Officer / Management Trainee",
+    "status": "🔵 CHECK CURRENT CRP SCHEDULE",
+    "startDate": "Notification based",
+    "lastDate": "Notification based",
+    "examDate": "CRP schedule",
+    "verified": "18 Sep 2026",
+    "source": "https://www.ibps.in/"
+  },
+  "ibps-clerk": {
+    "posts": "Customer Service Associate (Clerical)",
+    "status": "🔵 CHECK CURRENT CRP SCHEDULE",
+    "startDate": "Notification based",
+    "lastDate": "Notification based",
+    "examDate": "CRP schedule",
+    "verified": "18 Sep 2026",
+    "source": "https://www.ibps.in/"
+  },
+  "ibps-rrb": {
+    "posts": "Office Assistant, Officer Scale I, II and III",
+    "status": "🟢 CRP-RRB XV PORTAL LIVE / VERIFY POST WINDOW",
+    "startDate": "Post-specific",
+    "lastDate": "Post-specific",
+    "examDate": "CRP schedule",
+    "verified": "18 Sep 2026",
+    "source": "https://www.ibps.in/"
+  },
+  "tgprb-pc": {
+    "posts": "SCT Police Constable and equivalent PC posts",
+    "status": "🔵 EXAM SCHEDULED",
+    "startDate": "See official notification",
+    "lastDate": "Application window closed/verify",
+    "examDate": "20 Dec 2026 (tentative PWT)",
+    "verified": "18 Sep 2026",
+    "source": "https://www.tgprb.in/"
+  },
+  "tgprb-si": {
+    "posts": "SCT SI, Station Fire Officer and Deputy Jailor",
+    "status": "🔵 EXAM SCHEDULED",
+    "startDate": "See official notification",
+    "lastDate": "Application window closed/verify",
+    "examDate": "29 Nov 2026 (tentative PWT)",
+    "verified": "18 Sep 2026",
+    "source": "https://www.tgprb.in/"
+  },
+  "tgprb-driver": {
+    "posts": "SCT Police Constable Mechanic and Driver",
+    "status": "🔵 EXAM SCHEDULED",
+    "startDate": "See official notification",
+    "lastDate": "Application window closed/verify",
+    "examDate": "20 Dec 2026 (tentative PWT)",
+    "verified": "18 Sep 2026",
+    "source": "https://www.tgprb.in/"
+  },
+  "tgprb-asi-fpb": {
+    "posts": "SCT Assistant Sub Inspector, Finger Print Bureau",
+    "status": "🔵 EXAM SCHEDULED",
+    "startDate": "See official notification",
+    "lastDate": "Application window closed/verify",
+    "examDate": "20 Dec 2026 (tentative PWT)",
+    "verified": "18 Sep 2026",
+    "source": "https://www.tgprb.in/"
+  },
+  "employment-news": {
+    "posts": "Central ministries, departments, PSUs, universities, autonomous bodies and other government organisations",
+    "status": "🟢 LIVE LISTINGS",
+    "startDate": "Continuous",
+    "lastDate": "Post-specific",
+    "examDate": "Post-specific",
+    "verified": "18 Sep 2026",
+    "source": "https://employmentnews.gov.in/newemp/AllJobs.aspx?k=All"
+  }
+}
