@@ -1,0 +1,18 @@
+name: Validate site JavaScript
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate inline JavaScript
+        run: |
+          node <<'NODE'
+          const fs=require('fs');
+          const html=fs.readFileSync('index.html','utf8');
+          const scripts=[...html.matchAll(/<script(?:\s[^>]*)?>([\\s\\S]*?)<\/script>/gi)].map(m=>m[1]).filter(Boolean);
+          scripts.forEach((code,i)=>{try{new Function(code);console.log('script',i,'OK')}catch(e){console.error('script',i,e.message);process.exitCode=1}});
+          NODE
