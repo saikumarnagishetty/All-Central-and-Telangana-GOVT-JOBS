@@ -1,121 +1,121 @@
 {
-  "lastRun": "22 Sep 2026, 04:56 AM UTC",
+  "lastRun": "22 Sep 2026, 11:38 AM UTC",
   "mode": "official-source monitor",
   "sourceHealth": {
     "upsc": {
       "ok": false,
       "http": null,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "ssc": {
-      "ok": false,
-      "http": null,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "ok": true,
+      "http": 200,
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "rrb": {
       "ok": false,
       "http": null,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "ibps": {
       "ok": false,
       "http": null,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "sbi": {
       "ok": true,
       "http": 200,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "india-post": {
       "ok": true,
       "http": 200,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "employment-news": {
       "ok": true,
       "http": 200,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "rbi": {
       "ok": true,
       "http": 200,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "nabard": {
       "ok": false,
       "http": null,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "sebi": {
       "ok": true,
       "http": 200,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "drdo": {
       "ok": true,
       "http": 200,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "isro": {
       "ok": true,
       "http": 200,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "aiims": {
       "ok": true,
       "http": 200,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "ctet": {
-      "ok": false,
-      "http": null,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "ok": true,
+      "http": 200,
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "ugc-net": {
       "ok": false,
       "http": null,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "tgpsc": {
       "ok": false,
       "http": null,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "tgprb": {
       "ok": true,
       "http": 200,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "mhsrb": {
       "ok": true,
       "http": 200,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "deet": {
       "ok": true,
       "http": 200,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "tgsrtc": {
       "ok": true,
       "http": 200,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "tgenco": {
       "ok": false,
       "http": null,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "tsnpdcl": {
       "ok": true,
       "http": 200,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     },
     "tstransco": {
       "ok": false,
       "http": null,
-      "checked": "22 Sep 2026, 04:56 AM UTC"
+      "checked": "22 Sep 2026, 11:38 AM UTC"
     }
   }
 }
