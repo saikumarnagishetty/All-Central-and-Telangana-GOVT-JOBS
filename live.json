@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T05:02:36.920013+00:00",
+  "updatedAt": "2026-09-22T10:01:31.383542+00:00",
   "sources": [
     {
       "id": "upsc",
@@ -14,10 +14,9 @@
       "id": "ssc",
       "name": "SSC",
       "url": "https://ssc.gov.in/",
-      "status": "SOURCE UNAVAILABLE",
+      "status": "LIVE SOURCE",
       "dates": [],
-      "ok": false,
-      "error": "The read operation timed out"
+      "ok": true
     },
     {
       "id": "rrb",
