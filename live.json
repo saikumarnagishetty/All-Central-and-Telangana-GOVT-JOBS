@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T11:43:11.344254+00:00",
+  "updatedAt": "2026-09-23T17:06:50.123336+00:00",
   "sources": [
     {
       "id": "upsc",
@@ -101,7 +101,7 @@
       "status": "SOURCE UNAVAILABLE",
       "dates": [],
       "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "error": "Remote end closed connection without response"
     },
     {
       "id": "tgprb",
