@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T01:33:41.422537+00:00",
+  "updatedAt": "2026-09-25T07:53:26.328804+00:00",
   "sources": [
     {
       "id": "upsc",
@@ -84,11 +84,11 @@
       "url": "https://www.isro.gov.in/Careers.html",
       "status": "LIVE SOURCE",
       "dates": [
+        "21-09-2026",
         "27-08-2026",
         "28-07-2026",
         "27-07-2026",
         "11-08-2026",
-        "21-09-2026",
         "25-07-2026",
         "June 23, 2026"
       ],
@@ -126,7 +126,7 @@
       "status": "SOURCE UNAVAILABLE",
       "dates": [],
       "ok": false,
-      "error": "<urlopen error [Errno -2] Name or service not known>"
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
     }
   ]
 }
