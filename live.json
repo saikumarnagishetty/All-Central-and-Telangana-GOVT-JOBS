@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T19:54:30.191500+00:00",
+  "updatedAt": "2026-09-26T22:54:50.922794+00:00",
   "sources": [
     {
       "id": "upsc",
@@ -8,7 +8,7 @@
       "status": "SOURCE UNAVAILABLE",
       "dates": [],
       "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "error": "The read operation timed out"
     },
     {
       "id": "ssc",
