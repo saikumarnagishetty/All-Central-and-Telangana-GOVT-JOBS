@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T06:46:42.109105+00:00",
+  "updatedAt": "2026-09-30T13:48:16.950547+00:00",
   "sources": [
     {
       "id": "upsc",
@@ -8,7 +8,7 @@
       "status": "SOURCE UNAVAILABLE",
       "dates": [],
       "ok": false,
-      "error": "The read operation timed out"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "ssc",
@@ -84,8 +84,8 @@
       "url": "https://www.isro.gov.in/Careers.html",
       "status": "LIVE SOURCE",
       "dates": [
-        "28-07-2026",
         "30/09/2026",
+        "28-07-2026",
         "21-09-2026",
         "27-08-2026",
         "27-07-2026",
