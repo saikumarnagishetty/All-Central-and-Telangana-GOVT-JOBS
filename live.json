@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T23:00:10.206280+00:00",
+  "updatedAt": "2026-10-03T02:01:55.302061+00:00",
   "sources": [
     {
       "id": "upsc",
@@ -40,10 +40,22 @@
       "id": "india-post",
       "name": "India Post",
       "url": "https://www.indiapost.gov.in/",
-      "status": "SOURCE UNAVAILABLE",
-      "dates": [],
-      "ok": false,
-      "error": "The read operation timed out"
+      "status": "LIVE SOURCE",
+      "dates": [
+        "16-12-2024",
+        "21-11-2025",
+        "27-11-2025",
+        "21-05-2025",
+        "01-08-2025",
+        "01-05-2025",
+        "31-07-2025",
+        "30-07-2025",
+        "10-07-2025",
+        "23-06-2025",
+        "20-06-2025",
+        "14-05-2025"
+      ],
+      "ok": true
     },
     {
       "id": "employment-news",
