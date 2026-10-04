@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T21:21:23.209344+00:00",
+  "updatedAt": "2026-10-04T00:41:24.906363+00:00",
   "sources": [
     {
       "id": "upsc",
@@ -14,10 +14,9 @@
       "id": "ssc",
       "name": "SSC",
       "url": "https://ssc.gov.in/",
-      "status": "SOURCE UNAVAILABLE",
+      "status": "LIVE SOURCE",
       "dates": [],
-      "ok": false,
-      "error": "<urlopen error timed out>"
+      "ok": true
     },
     {
       "id": "rrb",
@@ -62,10 +61,22 @@
       "id": "employment-news",
       "name": "Employment News",
       "url": "https://employmentnews.gov.in/newemp/AllJobs.aspx?k=All",
-      "status": "SOURCE UNAVAILABLE",
-      "dates": [],
-      "ok": false,
-      "error": "<urlopen error timed out>"
+      "status": "LIVE SOURCE",
+      "dates": [
+        "12/09/2026",
+        "11/10/2026",
+        "27/09/2026",
+        "15/09/2026",
+        "07/09/2026",
+        "24/09/2026",
+        "17/09/2026",
+        "31/08/2026",
+        "18/10/2026",
+        "30/10/2026",
+        "24/08/2026",
+        "11/09/2026"
+      ],
+      "ok": true
     },
     {
       "id": "isro",
@@ -91,7 +102,7 @@
       "status": "SOURCE UNAVAILABLE",
       "dates": [],
       "ok": false,
-      "error": "<urlopen error timed out>"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "tgprb",
