@@ -8,9 +8,10 @@ on:
 permissions:
   contents: write
 
+# Serialize with the hourly live refresh so both workflows never push main at once.
 concurrency:
-  group: jobs-monitor
-  cancel-in-progress: true
+  group: govt-jobs-data
+  cancel-in-progress: false
 
 jobs:
   monitor:
@@ -27,5 +28,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/live.json data/monitor-health.json
-          git diff --cached --quiet || git commit -m "chore: refresh live government job verification"
-          git push
+          if git diff --cached --quiet; then
+            echo "No verification changes."
+            exit 0
+          fi
+          git commit -m "chore: refresh live government job verification"
+          git push origin HEAD:main
