@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T01:35:34.054665+00:00",
+  "updatedAt": "2026-10-07T08:44:36.977210+00:00",
   "sources": [
     {
       "id": "upsc",
@@ -34,7 +34,7 @@
       "status": "SOURCE UNAVAILABLE",
       "dates": [],
       "ok": false,
-      "error": "<urlopen error [SSL: UNEXPECTED_MESSAGE] unexpected message (_ssl.c:1000)>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>"
     },
     {
       "id": "india-post",
@@ -42,18 +42,18 @@
       "url": "https://www.indiapost.gov.in/",
       "status": "LIVE SOURCE",
       "dates": [
-        "16-12-2024",
         "21-11-2025",
         "27-11-2025",
-        "21-05-2025",
-        "01-08-2025",
-        "01-05-2025",
-        "31-07-2025",
-        "30-07-2025",
-        "10-07-2025",
-        "23-06-2025",
-        "20-06-2025",
-        "14-05-2025"
+        "22-08-2025",
+        "29-08-2025",
+        "02-09-2025",
+        "01-12-2025",
+        "25-09-2025",
+        "26-09-2025",
+        "14-11-2025",
+        "01-01-2018",
+        "18-11-2025",
+        "12-08-2026"
       ],
       "ok": true
     },
