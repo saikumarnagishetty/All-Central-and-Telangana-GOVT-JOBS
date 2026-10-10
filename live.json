@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T18:39:37.747558+00:00",
+  "updatedAt": "2026-10-10T22:36:30.103810+00:00",
   "sources": [
     {
       "id": "upsc",
@@ -34,7 +34,7 @@
       "status": "SOURCE UNAVAILABLE",
       "dates": [],
       "ok": false,
-      "error": "<urlopen error [SSL: UNEXPECTED_MESSAGE] unexpected message (_ssl.c:1000)>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>"
     },
     {
       "id": "india-post",
@@ -106,10 +106,9 @@
       "id": "tgprb",
       "name": "Telangana Police Recruitment Board",
       "url": "https://www.tgprb.in/",
-      "status": "SOURCE UNAVAILABLE",
+      "status": "LIVE SOURCE",
       "dates": [],
-      "ok": false,
-      "error": "<urlopen error timed out>"
+      "ok": true
     },
     {
       "id": "mhsrb",
