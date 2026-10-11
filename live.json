@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T08:58:06.894689+00:00",
+  "updatedAt": "2026-10-11T15:45:29.959928+00:00",
   "sources": [
     {
       "id": "upsc",
@@ -34,16 +34,15 @@
       "status": "SOURCE UNAVAILABLE",
       "dates": [],
       "ok": false,
-      "error": "<urlopen error [SSL: UNEXPECTED_MESSAGE] unexpected message (_ssl.c:1000)>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>"
     },
     {
       "id": "india-post",
       "name": "India Post",
       "url": "https://www.indiapost.gov.in/",
-      "status": "SOURCE UNAVAILABLE",
+      "status": "LIVE SOURCE",
       "dates": [],
-      "ok": false,
-      "error": "HTTP Error 502: Bad Gateway"
+      "ok": true
     },
     {
       "id": "employment-news",
