@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T12:03:14.861733+00:00",
+  "updatedAt": "2026-10-14T17:15:58.749001+00:00",
   "sources": [
     {
       "id": "upsc",
@@ -8,15 +8,16 @@
       "status": "SOURCE UNAVAILABLE",
       "dates": [],
       "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "id": "ssc",
       "name": "SSC",
       "url": "https://ssc.gov.in/",
-      "status": "LIVE SOURCE",
+      "status": "SOURCE UNAVAILABLE",
       "dates": [],
-      "ok": true
+      "ok": false,
+      "error": "<urlopen error timed out>"
     },
     {
       "id": "rrb",
