@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T17:15:58.749001+00:00",
+  "updatedAt": "2026-10-14T20:46:40.684915+00:00",
   "sources": [
     {
       "id": "upsc",
@@ -8,16 +8,15 @@
       "status": "SOURCE UNAVAILABLE",
       "dates": [],
       "ok": false,
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "The read operation timed out"
     },
     {
       "id": "ssc",
       "name": "SSC",
       "url": "https://ssc.gov.in/",
-      "status": "SOURCE UNAVAILABLE",
+      "status": "LIVE SOURCE",
       "dates": [],
-      "ok": false,
-      "error": "<urlopen error timed out>"
+      "ok": true
     },
     {
       "id": "rrb",
@@ -35,7 +34,7 @@
       "status": "SOURCE UNAVAILABLE",
       "dates": [],
       "ok": false,
-      "error": "<urlopen error [SSL: UNEXPECTED_MESSAGE] unexpected message (_ssl.c:1000)>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>"
     },
     {
       "id": "india-post",
