@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T13:35:04.369237+00:00",
+  "updatedAt": "2026-10-20T18:28:56.215033+00:00",
   "sources": [
     {
       "id": "upsc",
@@ -100,7 +100,7 @@
       "status": "SOURCE UNAVAILABLE",
       "dates": [],
       "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "error": "<urlopen error timed out>"
     },
     {
       "id": "tgprb",
