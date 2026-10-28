@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T09:45:19.447043+00:00",
+  "updatedAt": "2026-10-28T16:41:10.024130+00:00",
   "sources": [
     {
       "id": "upsc",
@@ -34,7 +34,7 @@
       "status": "SOURCE UNAVAILABLE",
       "dates": [],
       "ok": false,
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>"
+      "error": "<urlopen error [SSL: UNEXPECTED_MESSAGE] unexpected message (_ssl.c:1000)>"
     },
     {
       "id": "india-post",
@@ -84,10 +84,10 @@
       "url": "https://www.isro.gov.in/Careers.html",
       "status": "LIVE SOURCE",
       "dates": [
+        "21-09-2026",
         "27-08-2026",
         "30/09/2026",
         "28-07-2026",
-        "21-09-2026",
         "27-07-2026",
         "11-08-2026"
       ],
