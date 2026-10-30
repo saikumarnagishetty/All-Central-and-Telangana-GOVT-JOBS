@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T01:05:15.195578+00:00",
+  "updatedAt": "2026-10-30T07:11:58.032443+00:00",
   "sources": [
     {
       "id": "upsc",
@@ -61,10 +61,22 @@
       "id": "employment-news",
       "name": "Employment News",
       "url": "https://employmentnews.gov.in/newemp/AllJobs.aspx?k=All",
-      "status": "SOURCE UNAVAILABLE",
-      "dates": [],
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "status": "LIVE SOURCE",
+      "dates": [
+        "12/09/2026",
+        "11/10/2026",
+        "27/09/2026",
+        "15/09/2026",
+        "07/09/2026",
+        "24/09/2026",
+        "17/09/2026",
+        "31/08/2026",
+        "18/10/2026",
+        "30/10/2026",
+        "24/08/2026",
+        "11/09/2026"
+      ],
+      "ok": true
     },
     {
       "id": "isro",
