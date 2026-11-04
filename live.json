@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T01:26:21.352053+00:00",
+  "updatedAt": "2026-11-04T09:21:24.752592+00:00",
   "sources": [
     {
       "id": "upsc",
@@ -125,7 +125,7 @@
       "status": "SOURCE UNAVAILABLE",
       "dates": [],
       "ok": false,
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+      "error": "<urlopen error [Errno -2] Name or service not known>"
     }
   ]
 }
