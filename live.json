@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T06:32:32.822284+00:00",
+  "updatedAt": "2026-11-11T15:17:24.705749+00:00",
   "sources": [
     {
       "id": "upsc",
@@ -34,7 +34,7 @@
       "status": "SOURCE UNAVAILABLE",
       "dates": [],
       "ok": false,
-      "error": "<urlopen error [SSL: UNEXPECTED_MESSAGE] unexpected message (_ssl.c:1000)>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>"
     },
     {
       "id": "india-post",
@@ -52,8 +52,8 @@
         "15-09-2026",
         "06-05-2026",
         "04-11-2026",
-        "22-08-2025",
-        "29-08-2025"
+        "11-11-2026",
+        "22-08-2025"
       ],
       "ok": true
     },
