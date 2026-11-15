@@ -1,121 +1,121 @@
 {
-  "lastRun": "14 Nov 2026, 10:23 PM UTC",
+  "lastRun": "15 Nov 2026, 06:31 AM UTC",
   "mode": "official-source monitor",
   "sourceHealth": {
     "upsc": {
       "ok": false,
       "http": null,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "ssc": {
       "ok": true,
       "http": 200,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "rrb": {
       "ok": false,
       "http": null,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "ibps": {
       "ok": true,
       "http": 200,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "sbi": {
       "ok": true,
       "http": 200,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "india-post": {
       "ok": true,
       "http": 200,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "employment-news": {
       "ok": true,
       "http": 200,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "rbi": {
       "ok": true,
       "http": 200,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "nabard": {
       "ok": false,
       "http": null,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "sebi": {
       "ok": true,
       "http": 200,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "drdo": {
       "ok": false,
       "http": null,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "isro": {
       "ok": true,
       "http": 200,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "aiims": {
       "ok": true,
       "http": 200,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "ctet": {
       "ok": true,
       "http": 200,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "ugc-net": {
       "ok": false,
       "http": null,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "tgpsc": {
       "ok": false,
       "http": null,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "tgprb": {
       "ok": true,
       "http": 200,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "mhsrb": {
       "ok": true,
       "http": 200,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "deet": {
       "ok": false,
       "http": null,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "tgsrtc": {
       "ok": true,
       "http": 200,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "tgenco": {
       "ok": false,
       "http": null,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "tsnpdcl": {
       "ok": true,
       "http": 200,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     },
     "tstransco": {
       "ok": false,
       "http": null,
-      "checked": "14 Nov 2026, 10:23 PM UTC"
+      "checked": "15 Nov 2026, 06:31 AM UTC"
     }
   }
 }
