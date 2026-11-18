@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T22:55:32.964047+00:00",
+  "updatedAt": "2026-11-18T04:27:06.317122+00:00",
   "sources": [
     {
       "id": "upsc",
@@ -31,15 +31,10 @@
       "id": "ibps",
       "name": "IBPS",
       "url": "https://www.ibps.in/",
-      "status": "LIVE SOURCE",
-      "dates": [
-        "13-Nov-2026",
-        "09-Nov-2026",
-        "07-Nov-2026",
-        "04-Nov-2026",
-        "20-08-2023"
-      ],
-      "ok": true
+      "status": "SOURCE UNAVAILABLE",
+      "dates": [],
+      "ok": false,
+      "error": "<urlopen error [SSL: UNEXPECTED_MESSAGE] unexpected message (_ssl.c:1000)>"
     },
     {
       "id": "india-post",
