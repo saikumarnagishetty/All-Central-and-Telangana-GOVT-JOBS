@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T13:17:56.960931+00:00",
+  "updatedAt": "2026-11-19T22:11:16.225852+00:00",
   "sources": [
     {
       "id": "upsc",
@@ -30,31 +30,25 @@
       "id": "ibps",
       "name": "IBPS",
       "url": "https://www.ibps.in/",
-      "status": "SOURCE UNAVAILABLE",
-      "dates": [],
-      "ok": false,
-      "error": "<urlopen error [SSL: UNEXPECTED_MESSAGE] unexpected message (_ssl.c:1081)>"
+      "status": "LIVE SOURCE",
+      "dates": [
+        "13-Nov-2026",
+        "09-Nov-2026",
+        "07-Nov-2026",
+        "05-Nov-2026",
+        "04-Nov-2026",
+        "20-08-2023"
+      ],
+      "ok": true
     },
     {
       "id": "india-post",
       "name": "India Post",
       "url": "https://www.indiapost.gov.in/",
-      "status": "LIVE SOURCE",
-      "dates": [
-        "30-12-2025",
-        "21-11-2025",
-        "27-11-2025",
-        "13-07-2026",
-        "06-04-2026",
-        "09-06-2026",
-        "03-08-2026",
-        "15-09-2026",
-        "06-05-2026",
-        "04-11-2026",
-        "11-11-2026",
-        "22-08-2025"
-      ],
-      "ok": true
+      "status": "SOURCE UNAVAILABLE",
+      "dates": [],
+      "ok": false,
+      "error": "<urlopen error _ssl.c:1063: The handshake operation timed out>"
     },
     {
       "id": "employment-news",
