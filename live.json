@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T15:23:25.170020+00:00",
+  "updatedAt": "2026-11-22T21:50:12.451558+00:00",
   "sources": [
     {
       "id": "upsc",
@@ -66,22 +66,10 @@
       "id": "employment-news",
       "name": "Employment News",
       "url": "https://employmentnews.gov.in/newemp/AllJobs.aspx?k=All",
-      "status": "LIVE SOURCE",
-      "dates": [
-        "02/11/2026",
-        "21/11/2026",
-        "30/11/2026",
-        "12/09/2026",
-        "11/10/2026",
-        "27/09/2026",
-        "15/09/2026",
-        "07/09/2026",
-        "24/09/2026",
-        "17/09/2026",
-        "31/08/2026",
-        "18/10/2026"
-      ],
-      "ok": true
+      "status": "SOURCE UNAVAILABLE",
+      "dates": [],
+      "ok": false,
+      "error": "<urlopen error timed out>"
     },
     {
       "id": "isro",
