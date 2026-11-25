@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T04:20:15.073800+00:00",
+  "updatedAt": "2026-11-25T15:40:21.871703+00:00",
   "sources": [
     {
       "id": "upsc",
@@ -32,6 +32,7 @@
       "url": "https://www.ibps.in/",
       "status": "LIVE SOURCE",
       "dates": [
+        "20-Nov-2026",
         "13-Nov-2026",
         "09-Nov-2026",
         "07-Nov-2026",
